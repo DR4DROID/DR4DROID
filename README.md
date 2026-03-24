@@ -56,7 +56,7 @@ A Droid Intelligence ajuda empresas a **tirar tecnologia do “modo promessa” 
 - **Primeira conversa: diagnóstico gratuito**
 - Sem pitch genérico — conversa objetiva sobre contexto, viabilidade e plano
 
-📩 <a href="mailto:contato@droidintelligence.com.br" target="_blank" style="text-decoration: underline;">SEU_EMAIL</a>
+📩 <a href="mailto:contato@droidintelligence.com.br" target="_blank" style="text-decoration: underline;">e-mail</a>
 
 ---
 
