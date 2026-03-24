@@ -1,43 +1,78 @@
+<h1 align="center">Droid Intelligence</h1>
 
-# DRDROID
+<p align="center">
+  <b>Tecnologia que pensa com você</b><br/>
+  Parceiro tecnológico B2B — estratégia, produto e execução com IA aplicada.
+</p>
+
+<p align="center">
+  <a href="https://droidintelligence.com.br/" target="_blank" style="text-decoration: underline;">Website</a>
+  •
+  <a href="https://www.linkedin.com/company/droidintelligence" target="_blank" style="text-decoration: underline;">LinkedIn</a>
+  •
+  <a href="https://www.instagram.com/droidintelligence" target="_blank" style="text-decoration: underline;">Instagram</a>
+  •
+  <a href="mailto:contato@droidintelligence.com.br" target="_blank" style="text-decoration: underline;">Contato</a>
+</p>
+
+---
+
+## O que fazemos
+A Droid Intelligence ajuda empresas a **tirar tecnologia do “modo promessa” e colocar em produção**:
+- **Consultoria Estratégica de TI** (direção técnica, desbloqueio de projetos, governança pragmática)
+- **Desenvolvimento de Produto** (SaaS, aplicações web modernas, integrações e automações)
+- **IA Aplicada** (match inteligente, extração/classificação, automação de processos, embeddings/RAG quando faz sentido)
+
+> IA aqui é ferramenta — não argumento de venda. Usamos quando gera resultado mensurável.
+
+---
+
+## Como trabalhamos
+1. **Diagnóstico**: entendemos o problema real antes de propor qualquer solução  
+2. **Estratégia e plano**: escopo claro, decisões técnicas, roadmap e riscos mapeados  
+3. **Execução**: do backend ao deploy, com entregas contínuas e qualidade
+
+---
+<!--
+## Cases (resumo)
+- **Unimed Campo Belo** — consultoria estratégica que destravou projetos e implantou sistema integrado de atendimento  
+- **Recrute Já!** — beta de plataforma SaaS com IA (match com embeddings + pgvector) entregue em 30 dias  
+- **RV info** — liderança técnica e projeto robusto (créditos, múltiplos endereços, controle regional)
+
+---
 
 
-Apaixonado por T.i desde o PC100.
+## Repositórios em destaque
+> Fixe (pin) os repositórios principais no GitHub e liste aqui.
 
-Caçando e explorando vulnerabilidades em dispositivos móveis desde 2010.
+- **[Nome do Repo 1](#)** — o que resolve em 1 frase
+- **[Nome do Repo 2](#)** — stack + impacto
+- **[Nome do Repo 3](#)** — diferencial (arquitetura, performance, IA, etc.)
+-->
+---
 
-Ex Instrutor Senac-MG.
+## Contato (B2B)
+- **Resposta em até 24h**
+- **Primeira conversa: diagnóstico gratuito**
+- Sem pitch genérico — conversa objetiva sobre contexto, viabilidade e plano
 
-Cisco CCNA e CyberOPS formação como instrutor.
+📩 <a href="mailto:contato@droidintelligence.com.br" target="_blank" style="text-decoration: underline;">SEU_EMAIL</a>
 
-Formado em Análise e desenvolvimento de sistemas.
+---
 
-Pós Graduado em CyberSegurança.
+## Identidade (design system — resumo)
+**Tema:** Dark premium • glassmorphism • glow ciano em CTAs  
+**Tipografia:** Inter  
+**Cores:** Carbon / Ice / Steel / Cyan
 
-Cusando Ciências da Computação.
+```css
+/* tokens (referência) */
+--carbon: #0B0F14;
+--carbon-mid: #121826;
+--carbon-deep: #070A0D;
+--ice: #F5F7FA;
+--steel: #94A3B8;
+--cyan: #22D3EE;
+```
 
-
-## HABILIDADES
-
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=%23000000) 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white)
-![wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
-![kali](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-
-## CERTIFICAÇÕES
-
-<a href= "https://www.credly.com/badges/61867abb-fd17-4d86-8e00-f48b2cef8c65/public_url"><img src= "https://images.credly.com/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png" width="200" height="200"/>  <a href= "https://www.credly.com/badges/2f86bfe3-eb9d-4076-9137-9e4fb0230d86/public_url"><img src= "https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="200" height="200"/></a>
-
-
-
-
-## CONECTE-SE COMIGO 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-nunes-vieira-945806232/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g1b4_jr/)
-
-
-
+<sub>© Droid Intelligence. Todos os direitos reservados.</sub>
